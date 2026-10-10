@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Kunal Nimje</h1>
+<h1 align="left">Hi 👋, I'm Kunal Nimje</h1>
 
 <h3 align="center">ENTC Undergraduate @ COEP Technological University, Pune</h3>
 
@@ -56,7 +56,9 @@
   <a href="https://github.com/kunalnimje00">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href='https://www.linkedin.com/in/kunalnimje00'>LinkedIn</a>
+   <a href="https://www.linkedin.com/in/kunalnimje00" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 ---
